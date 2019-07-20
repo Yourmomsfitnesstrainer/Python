@@ -1,7 +1,7 @@
-i = 1000
-while i > 100:
-    print (i)
-    i /= 2
+# i = 1000
+# while i > 100:
+#     print (i)
+#     i /= 2
 
 # for j in 'Хаюхай, Я ИванГай':
 #     if j == 'ю':
